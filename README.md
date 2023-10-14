@@ -1,7 +1,7 @@
 # Opa! 👋🖥️🎮
 
 <br>
-My name is Vinícius Andriolli Arndt, I'm 19 years old, I'm a technology enthusiast and I recently graduated as a computer technician from the CEDUP. My learning is focused on systems development, Java for desktop and web applications. I have an infinite passion for the world of programming and I'm always looking to learn and update myself.
+My name is Vinícius Andriolli Arndt, I was born in 2003, I'm a technology enthusiast and I recently graduated as a computer technician from the CEDUP. My learning is focused on systems development, Java for desktop and web applications. I have an infinite passion for the world of programming and I'm always looking to learn and update myself.
 
 I am also currently enrolled in a full-stack Java training program called +devs2blu. This opportunity allowed me to improve my skills and knowledge in this area. I am a dedicated person, committed and passionate about what I do. I am always looking for challenges that allow me to grow professionally and contribute to the technical field.
 
